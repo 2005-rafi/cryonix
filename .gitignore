@@ -107,3 +107,9 @@ Thumbs.db
 
 # BUT keep Flutter app dependency lock
 !pubspec.lock
+
+documentation/
+.agents/
+.claude/
+.github/
+graphify-out/
