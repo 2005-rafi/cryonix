@@ -1,0 +1,232 @@
+[{
+	"resource": "/F:/Studies/Project/6. Flutter/4. Attendance/cryonix/lib/features/auth/screens/auth_screen.dart",
+	"owner": "_generated_diagnostic_collection_name_#3",
+	"code": {
+		"value": "uri_does_not_exist",
+		"target": {
+			"$mid": 1,
+			"path": "/diagnostics/uri_does_not_exist",
+			"scheme": "https",
+			"authority": "dart.dev"
+		}
+	},
+	"severity": 8,
+	"message": "Target of URI doesn't exist: '../auth_form_validator.dart'.\nTry creating the file referenced by the URI, or try using a URI for a file that does exist.",
+	"source": "dart",
+	"startLineNumber": 8,
+	"startColumn": 8,
+	"endLineNumber": 8,
+	"endColumn": 37,
+	"modelVersionId": 2,
+	"origin": "extHost1"
+},{
+	"resource": "/F:/Studies/Project/6. Flutter/4. Attendance/cryonix/lib/features/auth/screens/auth_screen.dart",
+	"owner": "_generated_diagnostic_collection_name_#3",
+	"code": {
+		"value": "uri_does_not_exist",
+		"target": {
+			"$mid": 1,
+			"path": "/diagnostics/uri_does_not_exist",
+			"scheme": "https",
+			"authority": "dart.dev"
+		}
+	},
+	"severity": 8,
+	"message": "Target of URI doesn't exist: '../error_mapper.dart'.\nTry creating the file referenced by the URI, or try using a URI for a file that does exist.",
+	"source": "dart",
+	"startLineNumber": 9,
+	"startColumn": 8,
+	"endLineNumber": 9,
+	"endColumn": 30,
+	"modelVersionId": 2,
+	"origin": "extHost1"
+},{
+	"resource": "/F:/Studies/Project/6. Flutter/4. Attendance/cryonix/lib/features/auth/screens/auth_screen.dart",
+	"owner": "_generated_diagnostic_collection_name_#3",
+	"code": {
+		"value": "undefined_identifier",
+		"target": {
+			"$mid": 1,
+			"path": "/diagnostics/undefined_identifier",
+			"scheme": "https",
+			"authority": "dart.dev"
+		}
+	},
+	"severity": 8,
+	"message": "Undefined name 'ErrorMapper'.\nTry correcting the name to one that is defined, or defining the name.",
+	"source": "dart",
+	"startLineNumber": 60,
+	"startColumn": 22,
+	"endLineNumber": 60,
+	"endColumn": 33,
+	"modelVersionId": 2,
+	"origin": "extHost1"
+},{
+	"resource": "/F:/Studies/Project/6. Flutter/4. Attendance/cryonix/lib/features/auth/screens/auth_screen.dart",
+	"owner": "_generated_diagnostic_collection_name_#3",
+	"code": {
+		"value": "undefined_identifier",
+		"target": {
+			"$mid": 1,
+			"path": "/diagnostics/undefined_identifier",
+			"scheme": "https",
+			"authority": "dart.dev"
+		}
+	},
+	"severity": 8,
+	"message": "Undefined name 'ErrorCategory'.\nTry correcting the name to one that is defined, or defining the name.",
+	"source": "dart",
+	"startLineNumber": 62,
+	"startColumn": 7,
+	"endLineNumber": 62,
+	"endColumn": 20,
+	"modelVersionId": 2,
+	"origin": "extHost1"
+},{
+	"resource": "/F:/Studies/Project/6. Flutter/4. Attendance/cryonix/lib/features/auth/screens/auth_screen.dart",
+	"owner": "_generated_diagnostic_collection_name_#3",
+	"code": {
+		"value": "undefined_identifier",
+		"target": {
+			"$mid": 1,
+			"path": "/diagnostics/undefined_identifier",
+			"scheme": "https",
+			"authority": "dart.dev"
+		}
+	},
+	"severity": 8,
+	"message": "Undefined name 'ErrorCategory'.\nTry correcting the name to one that is defined, or defining the name.",
+	"source": "dart",
+	"startLineNumber": 63,
+	"startColumn": 7,
+	"endLineNumber": 63,
+	"endColumn": 20,
+	"modelVersionId": 2,
+	"origin": "extHost1"
+},{
+	"resource": "/F:/Studies/Project/6. Flutter/4. Attendance/cryonix/lib/features/auth/screens/auth_screen.dart",
+	"owner": "_generated_diagnostic_collection_name_#3",
+	"code": {
+		"value": "undefined_identifier",
+		"target": {
+			"$mid": 1,
+			"path": "/diagnostics/undefined_identifier",
+			"scheme": "https",
+			"authority": "dart.dev"
+		}
+	},
+	"severity": 8,
+	"message": "Undefined name 'ErrorCategory'.\nTry correcting the name to one that is defined, or defining the name.",
+	"source": "dart",
+	"startLineNumber": 64,
+	"startColumn": 7,
+	"endLineNumber": 64,
+	"endColumn": 20,
+	"modelVersionId": 2,
+	"origin": "extHost1"
+},{
+	"resource": "/F:/Studies/Project/6. Flutter/4. Attendance/cryonix/lib/features/auth/screens/auth_screen.dart",
+	"owner": "_generated_diagnostic_collection_name_#3",
+	"code": {
+		"value": "undefined_identifier",
+		"target": {
+			"$mid": 1,
+			"path": "/diagnostics/undefined_identifier",
+			"scheme": "https",
+			"authority": "dart.dev"
+		}
+	},
+	"severity": 8,
+	"message": "Undefined name 'ErrorMapper'.\nTry correcting the name to one that is defined, or defining the name.",
+	"source": "dart",
+	"startLineNumber": 137,
+	"startColumn": 25,
+	"endLineNumber": 137,
+	"endColumn": 36,
+	"modelVersionId": 2,
+	"origin": "extHost1"
+},{
+	"resource": "/F:/Studies/Project/6. Flutter/4. Attendance/cryonix/lib/features/auth/screens/auth_screen.dart",
+	"owner": "_generated_diagnostic_collection_name_#3",
+	"code": {
+		"value": "undefined_identifier",
+		"target": {
+			"$mid": 1,
+			"path": "/diagnostics/undefined_identifier",
+			"scheme": "https",
+			"authority": "dart.dev"
+		}
+	},
+	"severity": 8,
+	"message": "Undefined name 'AuthFormValidator'.\nTry correcting the name to one that is defined, or defining the name.",
+	"source": "dart",
+	"startLineNumber": 221,
+	"startColumn": 46,
+	"endLineNumber": 221,
+	"endColumn": 63,
+	"modelVersionId": 2,
+	"origin": "extHost1"
+},{
+	"resource": "/F:/Studies/Project/6. Flutter/4. Attendance/cryonix/lib/features/auth/screens/auth_screen.dart",
+	"owner": "_generated_diagnostic_collection_name_#3",
+	"code": {
+		"value": "undefined_identifier",
+		"target": {
+			"$mid": 1,
+			"path": "/diagnostics/undefined_identifier",
+			"scheme": "https",
+			"authority": "dart.dev"
+		}
+	},
+	"severity": 8,
+	"message": "Undefined name 'AuthFormValidator'.\nTry correcting the name to one that is defined, or defining the name.",
+	"source": "dart",
+	"startLineNumber": 239,
+	"startColumn": 40,
+	"endLineNumber": 239,
+	"endColumn": 57,
+	"modelVersionId": 2,
+	"origin": "extHost1"
+},{
+	"resource": "/F:/Studies/Project/6. Flutter/4. Attendance/cryonix/lib/features/auth/screens/auth_screen.dart",
+	"owner": "_generated_diagnostic_collection_name_#3",
+	"code": {
+		"value": "undefined_identifier",
+		"target": {
+			"$mid": 1,
+			"path": "/diagnostics/undefined_identifier",
+			"scheme": "https",
+			"authority": "dart.dev"
+		}
+	},
+	"severity": 8,
+	"message": "Undefined name 'AuthFormValidator'.\nTry correcting the name to one that is defined, or defining the name.",
+	"source": "dart",
+	"startLineNumber": 268,
+	"startColumn": 40,
+	"endLineNumber": 268,
+	"endColumn": 57,
+	"modelVersionId": 2,
+	"origin": "extHost1"
+},{
+	"resource": "/F:/Studies/Project/6. Flutter/4. Attendance/cryonix/lib/features/auth/screens/auth_screen.dart",
+	"owner": "_generated_diagnostic_collection_name_#3",
+	"code": {
+		"value": "undefined_identifier",
+		"target": {
+			"$mid": 1,
+			"path": "/diagnostics/undefined_identifier",
+			"scheme": "https",
+			"authority": "dart.dev"
+		}
+	},
+	"severity": 8,
+	"message": "Undefined name 'AuthFormValidator'.\nTry correcting the name to one that is defined, or defining the name.",
+	"source": "dart",
+	"startLineNumber": 296,
+	"startColumn": 39,
+	"endLineNumber": 296,
+	"endColumn": 56,
+	"modelVersionId": 2,
+	"origin": "extHost1"
+}]
