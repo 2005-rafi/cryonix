@@ -70,3 +70,4 @@ This project is licensed under the MIT License.
 
 ## Developer
 **Mohammed Rafi H**
+[LinkedIn](https://www.linkedin.com/in/2005-mohammed-rafi-h/)
